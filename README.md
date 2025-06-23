@@ -32,7 +32,8 @@ To set up the project locally, follow these steps:
 - Use the contact form to get in touch.
 
 ## Developer
-- **Kunal Patil** [GitHub Profile](https://github.com/kunal96k)
+- Nainisha Pawar
+  
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
